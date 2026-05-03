@@ -22,9 +22,9 @@ acquisition-valuation-model/
 └── main.py                  # Main runner
 ## Tech Stack
 - Python 3
-- pandas — financial data structuring
-- NumPy — WACC, NPV computations
-- Matplotlib — valuation bridges, heatmaps, comparison charts
+- pandas- financial data structuring
+- NumPy- WACC, NPV computations
+- Matplotlib- valuation bridges, heatmaps, comparison charts
 
 ## How to Run
 ```bash
