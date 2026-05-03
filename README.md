@@ -45,9 +45,9 @@ python main.py
 
 ## Output
 Each company generates:
-- `_bridge.png` — DCF valuation bridge showing FCF + terminal value breakdown
-- `_sensitivity.png` — EV sensitivity across WACC and terminal growth ranges
-- `dcf_vs_comps.png` — Side by side DCF vs Trading Comps for all 5 companies
+- `_bridge.png`: DCF valuation bridge showing FCF + terminal value breakdown
+- `_sensitivity.png`: EV sensitivity across WACC and terminal growth ranges
+- `dcf_vs_comps.png`: Side by side DCF vs Trading Comps for all 5 companies
 
 ## Companies Covered
 | Company | Sector |
